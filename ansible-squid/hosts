@@ -1,6 +1,0 @@
-[squid]
-10.0.0.71
-
-[squid:vars]
-lan=10.0.0.0/8
-icp_port=3130
